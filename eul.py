@@ -1,3 +1,5 @@
+# https://en.wikipedia.org/wiki/Euler_method
+
 from decimal import Decimal
 
 def d(i, t, y):

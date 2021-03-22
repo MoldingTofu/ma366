@@ -1,3 +1,5 @@
+# https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods#Second-order_methods_with_two_stages
+
 from decimal import Decimal
 
 def d(i, t, y):
